@@ -1,4 +1,4 @@
-package edu.nobbchain.version2;
+package edu.noobchain.version2;
 
 public class TransactionInput {
 	public String transactionOutputId; //Reference to TransactionOutputs -> transactionId

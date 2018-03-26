@@ -1,4 +1,4 @@
-package edu.nobbchain.version2;
+package edu.noobchain.version2;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package edu.nobbchain.version2;
+package edu.noobchain.version2;
 
 import java.security.PublicKey;
 
